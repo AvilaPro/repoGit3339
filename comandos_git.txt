@@ -12,3 +12,4 @@ mv -> cambiar nombres de archivos y/o carpetas desde la consola
 git add nombreArchivo -> indica a git que el archivo llamado nombreArchivo debe tener seguimiento. (tracked)
 git add . -> indica a git que todos los archivos que se encuentren "untracked" pasen a ser "tracked"
 git commit -> ejecuta la confirmacion (commit)
+git commit -m "mensaje" -> ejecuta la confirmacion con un mensaje corto.
