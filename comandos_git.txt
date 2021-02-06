@@ -14,3 +14,4 @@ git add . -> indica a git que todos los archivos que se encuentren "untracked" p
 git commit -> ejecuta la confirmacion (commit)
 git commit -m "mensaje" -> ejecuta la confirmacion con un mensaje corto.
 git commit -a -m "mensaje" -> ejecuta la confirmacion con un mensaje y prepara automaticamente.
+cambio para verlo en el diff
